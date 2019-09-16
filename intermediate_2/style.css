@@ -1,0 +1,204 @@
+body {border: 1px solid black;
+	  font-family: Arial;
+	  width: 300px;
+}
+
+header {border-bottom: 10px solid black;
+		line-height: 30%;
+
+}
+
+header > h1 {font-size: 18px;
+			 font-weight: 900;
+}
+
+header > h2 {font-size: 12px;
+			 font-weight: 900;
+}
+
+.heading_h3 {font-size: 9px;
+			 font-weight: 900;
+			 display : flex;
+  			 justify-content: center;
+             align-items: center;
+             flex-flow: row wrap;
+             justify-content: space-between;
+             margin-top: -8px;
+             height: 50px;
+             border-bottom: 1px solid black;
+}
+
+#column_left {text-align: right;
+}
+
+.line2 > p {margin-bottom: auto; }
+.line2 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+}
+
+.line3 > p {margin-top: auto; }
+.line3 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-left: 10px;
+        border-top: 2px solid lightgrey;
+}
+
+.section1{border-bottom: 5px solid;
+		  height: 90px;
+}
+
+#daily_value {font-size: 9px;
+			  font-weight: 900;
+			  text-align: right;
+			  margin-top: auto;
+			  border-bottom: 2px solid black;
+}
+.line4 > p {margin-bottom:  auto; }
+.line4{display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -14px;
+}
+.line5 > p {margin-top: auto; }
+.line5 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-left: 10px;
+        border-top: 1px solid black;
+}
+
+.line6 > p {margin-top: auto; }
+.line6 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-left: 10px;
+        margin-top: -8px;
+        border-top: 2px solid lightgrey;
+}
+
+.line7 > p {margin-top: auto; }
+.line7 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 1px solid black;
+}
+
+.line8 > p {margin-top: auto; }
+.line8 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 1px solid black;
+}
+
+.line9 > p {margin-top: auto; }
+.line9 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 1px solid black;
+}
+.line10 > p {margin-top: auto; }
+.line10 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-left: 10px;
+        margin-top: -8px;
+        border-top: 2px solid lightgrey;
+}
+
+.line11 > p {margin-top: auto; }
+.line11 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-left: 10px;
+        margin-top: -8px;
+        border-top: 1px solid black;
+}
+
+.line12 > p {margin-top: auto; }
+.line12 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 1px solid black;
+}
+.section2{border-bottom: 5px solid;
+		  height: 153px;
+}
+
+.line13 > p {margin-top: auto; }
+.line13 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        border-top: 1px solid black;
+}
+
+.line14 > p {margin-top: auto; }
+.line14 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 2px solid grey;
+}
+.line15 > p {margin-top: auto; }
+.line15 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 1px solid black;
+}
+.line16 > p {margin-top: auto; }
+.line16 {display: flex;
+  		justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        margin-top: -8px;
+        border-top: 2px solid lightgrey;
+        border-bottom: 1px solid black;
+}
+
+/* Color Text etc. */
+
+.nutrition_1_bold {font-size: 10px;
+				   font-weight: 900;
+}
+
+.nutrition_1 {font-size: 10px;
+}
+
+.nutrition_1_right {font-size: 10px;
+					text-align: right;
+}
