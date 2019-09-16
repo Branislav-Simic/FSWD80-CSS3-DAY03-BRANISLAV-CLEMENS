@@ -139,6 +139,69 @@ main {
 	/* background-image:  -moz-linear-gradient(green,#66cccc); */
  background-image: -webkit-linear-gradient(green, #66cccc);
 }
+.train
+{
+	background-color: black;
+	margin-left: 500px;
+	height: 100px;
+	width: 350px;
+	-webkit-transition: width 5s,height 5s, -webkit-transform 3s;
+	transition: width 3s, height 3s, transform 3s;
+	color: white;
+	text-align: center;
+	padding: 40px;
+}
+
+.train:hover{
+
+background: blue;
+height: 200px;
+width: 400px;
+-webkit-transform: rotate(180deg);
+transform: rotate(180deg);
+color: black;
+}
+
+.train2 {
+	background-color: blue;
+	margin-left: 500px;
+	height: 100px;
+	width: 350px;
+	text-align: center;
+	padding: 40px;
+	margin: auto;
+	transition: width 1s, height 1s, transform 1s;
+
+
+}
+
+.train2:hover{
+	-webkit-transform: rotate(360deg);
+	transform: rotate(360deg);
+	background-color: orange;
+	border-radius: 100px;
+	width: 180px;
+	text-align: center;
+}
+
+.rotate{
+	-webkit-transition: all 1s ease-in;
+	transition: all 1s ease-in;
+}
+
+.rotate:hover {
+  -webkit-transition: all 2s ease-in;
+	
+	transition: all 2s ease-in;
+}
+
+.shad{
+	box-shadow: 10px 5px 5px black;
+}
+
+
+
+
 
 .left-article {
 	float: left;
